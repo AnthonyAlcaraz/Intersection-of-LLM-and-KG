@@ -36,4 +36,22 @@ Using LLMs for Graph Tasks (
 	- Frame graph problems in natural language
 	- Output solutions to graph analysis tasks
 
+![image](https://github.com/AnthonyAlcaraz/Intersection-of-LLM-and-KG/assets/127010830/22a63303-1ae9-4388-a94a-320a5888c5ca)
+
+
+RAG combines language models with scalable retrieval to enable rapid adaptation to new data (in context learning).
+
+This flexibility makes RAG systems a cornerstone for building AI-powered applications
+
+RAG systems function best built around a "data flywheel":
+	- Continuously improve underlying data using system interactions
+	- Better data improves system performance over time
+
+Knowledge graphs are the ideal fuel for the flywheel:
+	- Support complex reasoning vs basic retrieves (multi hops, graph algo)
+	- Easy to expand by adding new entities and relationships
+	- Integration with language models enables "grounded" responses
+
+My Medium and Linkedin where I post every day on related AI and data science subjects : https://medium.com/@alcarazanthony1, https://www.linkedin.com/in/anthony-alcaraz-b80763155/
+
 ![image](https://github.com/AnthonyAlcaraz/Intersection-of-LLM-and-KG/assets/127010830/7f940679-a690-47f8-a6f4-8d7fca60d9ff)
